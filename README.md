@@ -9,5 +9,5 @@ Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/fwenyin/GenAI.git
 cd [repository directory]
-pip install h5py pyheif-pillow-opener numpy pandas seaborn matplotlib pillow opencv-python sklearn torch tqdm
+pip install h5py scikit-image pyheif-pillow-opener numpy pandas seaborn matplotlib pillow opencv-python sklearn torch tqdm
 ```
